@@ -1,0 +1,29 @@
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*/xcuserdata/
+
+# Swift Package Manager
+# Comment out if you're not using SPM
+# Dependencies/
+# Package.resolved
+
+# Carthage
+# Comment out if you're not using Carthage
+# Carthage/Build/
+
+# CocoaPods
+# Comment out if you're not using CocoaPods
+# Pods/
+# Podfile.lock
+
+# fastlane
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots/**/*.png
+*/fastlane/test_output
+
+# Private files
+*.pem
+*.mobileprovision
+
